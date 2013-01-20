@@ -1,13 +1,21 @@
-Node Water
-==========
+```
+                                                 (j)
+                                               (no_de)
+ _ _ _       _                         (n)       (s)
+ ))`)`) ___  )L __ __           n      \|/       \|/
+((,(,' ((_( (( (('(|     n     \|/      |         |
 
-Water for node.js is a collection of projects that are:
+```                       
+                      
+Water for node.js
+=================
 
+A collection of projects that are:
 * Free
 * Open Source
-* Help your node.js project grow
+* Might help your node.js project grow
 
-Grow in terms of scale, build more features, more quickly, with easier to read source code.
+(Grow in terms of scale, build more features, more quickly, with easier to read source code.)
 
 Projects 
 ========
