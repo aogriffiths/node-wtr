@@ -5,7 +5,7 @@
  ))`)`) ___  )L __ __           / / /           n            \|/              \|/
 ((,(,' ((_( (( (('(|             n             \|/            |                |
 ```
-[Node Water](https://github.com/aogriffiths/node-wtr)
+The [Node Water](https://github.com/aogriffiths/node-wtr) collection.
 
 Water for node.js
 =================
@@ -22,14 +22,14 @@ Projects
 So far there are three projects:
 
 * __bring-modules__ - Bring your node.js modules to life.
-    * [github.com](https://github.com/aogriffiths/node-wtr-bring-modules)
-    * [npmjs.org](https://npmjs.org/package/bring-modules)
+    * On [github.com](https://github.com/aogriffiths/node-wtr-bring-modules)
+    * On [npmjs.org](https://npmjs.org/package/bring-modules)
 
 * __lazy-functions__ - Grow your node.js project with less effort.
-    * [github.com](https://github.com/aogriffiths/node-wtr-lazy-functions)
-    * [npmjs.org](https://npmjs.org/package/lazy-functions)
+    * On [github.com](https://github.com/aogriffiths/node-wtr-lazy-functions)
+    * On [npmjs.org](https://npmjs.org/package/lazy-functions)
 
 * __linked-module-checker__ - Help node.js module development flow more freely.
-    * [github.com](https://github.com/aogriffiths/node-wtr-linked-module-checker)
-    * [npmjs.org](https://npmjs.org/package/linked-module-checker)
+    * On [github.com](https://github.com/aogriffiths/node-wtr-linked-module-checker)
+    * On [npmjs.org](https://npmjs.org/package/linked-module-checker)
   
