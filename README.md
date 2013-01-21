@@ -32,4 +32,10 @@ So far there are three projects:
 * __linked-module-checker__ - Help node.js module development flow more freely.
     * On [github.com](https://github.com/aogriffiths/node-wtr-linked-module-checker)
     * On [npmjs.org](https://npmjs.org/package/linked-module-checker)
-  
+
+About me
+========
+
+See:
+* https://npmjs.org/~aogriffiths 
+* https://github.com/aogriffiths
