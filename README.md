@@ -23,7 +23,7 @@ Projects
     * On [github.com](https://github.com/aogriffiths/node-wtr-bring-modules)
     * On [npmjs.org](https://npmjs.org/package/bring-modules)
 
-* __fragment-include__ - Wash your files with this preprocessor and then DRY.
+* __fragment-include__ - Wash your files with this preprocessor and DRY.
     * On [github.com](https://github.com/aogriffiths/node-wtr-fragment-include)
     * On [npmjs.org](https://npmjs.org/package/fragment-include)
 
